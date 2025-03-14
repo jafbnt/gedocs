@@ -45,6 +45,14 @@ export default function Vantagens() {
         "Nosso software já é utilizado por diversas empresas e possui um ambiente estável e seguro, pronto para ser comercializado pelos licenciados.",
       color: "bg-purple-500",
     },
+    {
+      id: 6,
+      title: "Atuação em Diversos Segmentos",
+      icon: "mdi:domain",
+      description:
+        "Nosso software é versátil e pode ser adaptado para atender as necessidades de diferentes setores, como saúde, educação, finanças, jurídico, e muitos outros. Isso permite que você amplie seu alcance e explore múltiplos mercados.",
+      color: "bg-orange-500",
+    },
   ];
 
   return (

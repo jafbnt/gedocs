@@ -28,7 +28,7 @@ export default function Contato() {
           {/* Mapa */}
           <iframe
             className="w-full h-60 rounded-lg mt-4"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.5687685434155!2d-43.35057088504314!3d-21.760152285605267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x989ba135b9e8ff%3A0x7a13d31f3cddfa1d!2sJuiz%20de%20Fora%20-%20MG!5e0!3m2!1spt-BR!2sbr!4v1649900000000!5m2!1spt-BR!2sbr"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.5687685434155!2d-43.35057088504314!3d-21.760152285605267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x989ba135b9e8ff%3A0x7a13d31f3cddfa1d!2sAv%20Bar%C3%A3o%20do%20Rio%20Branco%2C%201871%20-%20Centro%2C%20Juiz%20de%20Fora%20-%20MG%2C%2036013-003%2C%20Brazil!5e0!3m2!1spt-BR!2sbr!4v1649900000000!5m2!1spt-BR!2sbr"
             allowFullScreen={true}
             loading="lazy"
           ></iframe>

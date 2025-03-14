@@ -138,6 +138,20 @@ export default function GEDServicos() {
       description: "Extraia dados essenciais de documentos de forma automatizada e precisa.",
       color: "bg-blue-600",
     },
+    {
+      id: 20,
+      title: "Automatização de Fluxos de Trabalho",
+      icon: "mdi:robot",
+      description: "Automatize processos repetitivos e melhore a eficiência operacional.",
+      color: "bg-green-600",
+    },
+    {
+      id: 21,
+      title: "Backup e Recuperação de Desastres",
+      icon: "mdi:backup-restore",
+      description: "Garanta a segurança de seus dados com backups regulares e recuperação rápida.",
+      color: "bg-red-600",
+    },
   ];
 
   return (

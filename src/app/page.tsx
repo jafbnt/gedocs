@@ -23,7 +23,6 @@ export default function Home() {
     { id: "compromisso", label: "Compromisso" },
     { id: "servicos", label: "Serviços" },
     { id: "clientes", label: "Clientes" },
-    { id: "contato", label: "Contato" },
   ];
 
   return (
